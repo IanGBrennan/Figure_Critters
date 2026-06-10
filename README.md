@@ -13,9 +13,9 @@ A loosely-curated collection of animal illustrations. The critters are organized
 
 The repository contains categorized image collections:
 
-- **Reptiles** — various reptile species across families
-- **Mammals** — mammalian species
-- **Amphibians** — amphibian species
+- [**Reptiles**](Reptiles/) — various reptile species across families
+- [**Mammals**](Mammals/) — mammalian species
+- [**Amphibians**](Amphibians/) — amphibian species
 - ...
 
 ## File Naming Convention
