@@ -2,7 +2,7 @@
 
 *Figure Critters — Making scientific visuals accessible and engaging*
 
-A loosely-curated collection of animal illustrations. The critters are organized by taxonomic group, designed for use in scientific presentations, academic papers, figures, and educational materials.
+A loosely-curated collection of animal illustrations. The critters are organized by taxonomic group, designed for use in scientific presentations, academic papers, figures, and educational materials. Like [PhyloPic](https://www.phylopic.org/), but with colors.
 
 <figure align="center">
 <img src="Reptiles/Agamidae_Gowidon_longirostris.png" alt="Gowidon" width="300">
