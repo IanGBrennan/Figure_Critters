@@ -4,7 +4,10 @@
 
 A loosely-curated collection of animal illustrations. The critters are organized by taxonomic group, designed for use in scientific presentations, academic papers, figures, and educational materials.
 
+<figure>
 <img src="Reptiles/Agamidae_Gowidon_longirostris.png" alt="Gowidon" width="300">
+<figcaption>A very handsome long-nosed dragon would look great in your next paper.</figcaption>
+</figure>
 
 ## Contents
 
